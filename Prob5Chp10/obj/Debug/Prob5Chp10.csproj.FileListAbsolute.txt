@@ -1,0 +1,10 @@
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\bin\Debug\Prob5Chp10.exe.config
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\bin\Debug\Prob5Chp10.exe
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\bin\Debug\Prob5Chp10.pdb
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.csproj.AssemblyReference.cache
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.Form1.resources
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.Properties.Resources.resources
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.csproj.GenerateResource.cache
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.csproj.CoreCompileInputs.cache
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.exe
+C:\Users\austi\source\repos\Prob5Chp10\Prob5Chp10\obj\Debug\Prob5Chp10.pdb
